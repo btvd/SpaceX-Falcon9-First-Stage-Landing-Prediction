@@ -1,7 +1,7 @@
 ## SpaceX-Falcon9-First-Stage-Landing-Prediction
 
 <p align="center">
-  <img width="700" height="500" src="https://images.squarespace-cdn.com/content/v1/59122c863a0411116f0625a6/1555095344123-3JKAX5M17W0C3YYJQ2GL/giphy+%2874%29.gif?format=500w">
+  <img width="500" height="300" src="https://images.squarespace-cdn.com/content/v1/59122c863a0411116f0625a6/1555095344123-3JKAX5M17W0C3YYJQ2GL/giphy+%2874%29.gif?format=500w">
 </p>
 
 ## Introduction
